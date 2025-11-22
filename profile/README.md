@@ -28,11 +28,15 @@
 > [!CAUTION]  
 > 官網將在 ??? 後開啟...
 
+👉 [https://SudaYoruka.com/](https://SudaYoruka.com/)
+
 這是須多夜花的主要網站，採用社交媒體風格的介面設計，讓瀏覽體驗更加親切自然。網站包含了角色介紹、最新動態、YouTube 影片展示、以及給創作者的二次創作規範等豐富內容。網站考量了搜尋引擎最佳化並整合站內搜尋功能，讓更多人能夠透過搜尋找到須多夜花的精彩內容。
 
 ### 須多夜花倒數計時器
 
 ![須多夜花倒數計時器](img/preview-countdown.png)
+
+👉 [https://Countdown.SudaYoruka.com/](https://Countdown.SudaYoruka.com/)
 
 這是一個專為 ??? 設計的倒數計時頁面，視覺上採用復古電視靜態效果，營造獨特的懷舊氛圍。頁面設計特別針對網頁載入速度進行了細緻的最佳化，在各種網路環境下都能快速開啟，帶來流暢的瀏覽體驗。
 
@@ -71,6 +75,6 @@
 
 <div align="center">
 
-### Made with ❤️ for Suda Yoruka
+### Made with 💖 for Suda Yoruka
 
 </div>
