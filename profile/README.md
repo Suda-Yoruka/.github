@@ -14,10 +14,12 @@
 
 ## 📦 專案列表
 
-| 專案名稱 | 說明 | 用途 |
-|---------|------|------|
-| [**Suda-Yoruka/website-yoruka**](https://github.com/Suda-Yoruka/website-yoruka) | 須多夜花官方網站，提供個人檔案、最新貼文、影片展示、二次創作規範等完整內容。 | 主要網站 |
-| [**Suda-Yoruka/website-yoruka-countdown**](https://github.com/Suda-Yoruka/website-yoruka-countdown) | 活動倒數計時頁面，採用復古電視風格設計，用於 ??? 的宣傳。 | 活動專頁 |
+| 專案名稱 | 說明 |
+|---------|------|
+| [**Suda-Yoruka/website-yoruka**](https://github.com/Suda-Yoruka/website-yoruka) | 須多夜花官方網站，提供個人檔案、最新貼文、影片展示、二次創作規範等完整內容。 |
+| [**Suda-Yoruka/website-yoruka-countdown**](https://github.com/Suda-Yoruka/website-yoruka-countdown) | 活動倒數計時頁面，採用復古電視風格設計，用於 ??? 的宣傳。 |
+| [**Suda-Yoruka/.github**](https://github.com/Suda-Yoruka/.github) | GitHub 組織的共用設定檔案，用來提供此說明頁面。 |
+| [**Suda-Yoruka/view-counter-yoruka**](https://github.com/Suda-Yoruka/view-counter-yoruka) | 官方網頁計數器徽章。[^1] |
 
 ---
 
@@ -78,3 +80,5 @@
 ### Made with 💖 for Suda Yoruka
 
 </div>
+
+[^1]: [\[個人專案\] 網頁計數器徽章 View Counter Badge —— 瀏覧數別再送人啦！以 Cloudflare Workers D1 實作適合純前端網頁的計數器 - 琳的備忘手札](https://xn--jgy.tw/SideProject/view-counter-badge-cloudflare-workers-d1/)
